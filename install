@@ -1,0 +1,5 @@
+!#/usr/bin
+python3 -m venv venv
+source venv/bin/activate
+pip3 install aiogram pytube moviepy
+pip install --upgrade --force-reinstall aiogram
