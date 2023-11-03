@@ -1,1 +1,1 @@
-key="6479596911:AAG7gCP_lLeioNPXY6TUqpBj-Ys_QkFoXSw"
+key="YOUR_TG_API_KEY"
