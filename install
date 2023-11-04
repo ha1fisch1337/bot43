@@ -1,5 +1,5 @@
 !#/bin/bash
 python3 -m venv venv
 source venv/bin/activate
-pip3 install aiogram pytube moviepy pydub
+pip3 install aiogram==2.23.1 pytube moviepy pydub
 pip install --force-reinstall -v "aiogram==2.23.1"
